@@ -1,0 +1,11 @@
+title: FOS Wiki
+description:  The Wiki of First Online School. All rules (charter and statues), decisions and public internal docs will be documented here.
+logo: images/fos_large.png
+#theme: jekyll-theme-minimal
+theme: just-the-docs
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+
