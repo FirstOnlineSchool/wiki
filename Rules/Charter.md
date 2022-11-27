@@ -35,7 +35,7 @@ There must always be a principal of FirstOnlineSchool.
 In the event that the principal of FirstOnlineSchool wishes to resign their post, the current principal is to nominate a new principal. The nominee must then be approved unanimously by the board by vote to become the new principal. If there is no board, then the current principal must form a new board as outlined in [§5](#5-principal).
 
 ### §7 Members and Staff
-Members of the FirstOnlineSchool Discord server are considered members of FirstOnlineSchool, or as otherwise defined by the statutes (see [§12](#12-statues)). Members of FirstOnlineSchool may also be staff members, meaning that they contribute to the operations of FirstOnlineSchool.
+Members of the FirstOnlineSchool Discord server are considered members of FirstOnlineSchool, or as otherwise defined by the statutes (see [§12](#12-statutes)). Members of FirstOnlineSchool may also be staff members, meaning that they contribute to the operations of FirstOnlineSchool.
 
 ## Decisions and Voting
 ### §8 Enacting Decisions
